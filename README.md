@@ -4,6 +4,7 @@ Bobobbd
 
 ## I`m a 17👽 year old student, who's learning FrontEnd💻
 
-Langusages and Tools
+## Langusages and Tools
+![HTML](https://img.shields.io/badge/-HTML-4f4d46?style=for-the-badge&logo=html)
 
 Follow me
