@@ -1,6 +1,6 @@
-## Hi there👋💜. I`m Sergiy Labay aka🐙 Odeesay🔱
+## Hi everyone👋💜. I`m Sergiy Labay aka🐙 Odeesay🔱
 
-About Me
+## I`m a 17👽 year old student, who's learning FrontEnd💻
 
 Langusages and Tools
 
