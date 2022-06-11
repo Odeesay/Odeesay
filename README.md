@@ -13,6 +13,6 @@ Bobobbd
 
 ## Follow me on🏂
 
-[![Instagram](https://img.shields.io/badge/-Instagram-4f4d46?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/odeesay/)
-![Telegram](https://img.shields.io/badge/-Telegram-4f4d46?style=for-the-badge&logo=Telegram&logoColor=26A5E4)
+[![Instagram](https://img.shields.io/badge/-Instagram-9dc9ae?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/odeesay/)
+[![Telegram](https://img.shields.io/badge/-Telegram-9dc9ae?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://t.me/odeesay)
 
