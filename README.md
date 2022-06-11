@@ -11,4 +11,8 @@ Bobobbd
 ![NodeJs](https://img.shields.io/badge/-NodeJs-4f4d46?style=for-the-badge&logo=Node.js&logoColor=0f9641)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-4f4d46?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)
 
-Follow me
+## Follow me on🏂
+
+[![Instagram](https://img.shields.io/badge/-Instagram-4f4d46?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/odeesay/)
+![Telegram](https://img.shields.io/badge/-Telegram-4f4d46?style=for-the-badge&logo=Telegram&logoColor=26A5E4)
+
