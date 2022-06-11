@@ -14,5 +14,5 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-9dc9ae?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/odeesay/)
 [![Telegram](https://img.shields.io/badge/-Telegram-9dc9ae?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://t.me/odeesay)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
